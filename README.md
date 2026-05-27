@@ -1,0 +1,1 @@
+# idpa_qr_redirect
